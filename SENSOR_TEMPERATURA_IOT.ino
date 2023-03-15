@@ -1,6 +1,6 @@
 /*
 Author: Gabriela Dellamora Paim
-Version: 10.03.23
+Version: 15.03.23
 Libraries and versions:
 DHT sensor library by Adafruit -> Version 1.1.1
 Adafruit GFX Library by Adafruit -> Version 1.11.4
